@@ -13,9 +13,6 @@ Además, en mi [perfíl](https://github.com/RoderickGamer) encontrarás una list
 
 Si tienes alguna duda o comentario, en mi [perfíl](https://github.com/RoderickGamer) encontrarás las redes para contactarme.
 
-#### Gracias por ver mi perfil UwU
-
-#### 🚀¡Que tengas un gran día!🚀
-
+¡Muchas gracias por ver mi portafolio!
 
 ### REPOSITORIO AUN EN PROCESO
