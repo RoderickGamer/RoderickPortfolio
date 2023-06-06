@@ -5,10 +5,10 @@ Aquí puedes explorar mis proyectos de Bussines Intelligence. Encontraras un REA
   
 ### Proyectos
 
-- [Videogames Sales Report 1980-2017 - Power BI](https://github.com/RoderickGamer/DataVizPortfolio/tree/53b4fd1352c9433811870214f52a29965d61d802/Power%20BI/Reporte%20de%20Ventas%20de%20Videojuegos%201990-2017)
-- [Data Science Salaries - Looker Studio](https://github.com/RoderickGamer/DataVizPortfolio/blob/9d52d3df9b4f1d37caa61a70c2a3fe0c2af56e76/Looker%20Studio/Data%20Science%20Salaries.md)
-- [Website Convertión Rate - Looker Studio](https://github.com/RoderickGamer/DataVizPortfolio/blob/9d52d3df9b4f1d37caa61a70c2a3fe0c2af56e76/Looker%20Studio/Convertion%20Rate%20Looker%20Studio.md)
-- [Youtube Channel Report - Looker Studio](https://github.com/RoderickGamer/DataVizPortfolio/blob/9d52d3df9b4f1d37caa61a70c2a3fe0c2af56e76/Looker%20Studio/Channel%20Report%20YT%20Analytics%20Looker%20Studio.md)
+- [Videogames Sales Report 1980-2017 - Power BI](https://github.com/RoderickGamer/RoderickPortfolio/tree/9edb22428bc169081c90cf0e15ec90a2528fdbb3/DataVizPortfolio/Power%20BI/Reporte%20de%20Ventas%20de%20Videojuegos%201990-2017)
+- [Data Science Salaries - Looker Studio](https://github.com/RoderickGamer/RoderickPortfolio/blob/9edb22428bc169081c90cf0e15ec90a2528fdbb3/DataVizPortfolio/Looker%20Studio/Data%20Science%20Salaries.md)
+- [Website Convertión Rate - Looker Studio](https://github.com/RoderickGamer/RoderickPortfolio/blob/9edb22428bc169081c90cf0e15ec90a2528fdbb3/DataVizPortfolio/Looker%20Studio/Convertion%20Rate%20Looker%20Studio.md)
+- [Youtube Channel Report - Looker Studio](https://github.com/RoderickGamer/RoderickPortfolio/blob/9edb22428bc169081c90cf0e15ec90a2528fdbb3/DataVizPortfolio/Looker%20Studio/YouTube%20Channel%20Report.md)
 
 Además, en mi [perfíl](https://github.com/RoderickGamer) encontrarás una lista con todos los cursos que he tomado relacionados tanto al ámbito profesional, como es Data Analyst, como al ambito personal, como son mis gustos y hobbies.
 
