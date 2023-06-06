@@ -8,7 +8,7 @@ Además, en mi [perfíl](https://github.com/RoderickGamer) encontrarás una list
 
 ## Portafolios
 
-- ### Data Visualization
+- ### Data Visualization ➝ [🔗](https://github.com/RoderickGamer/RoderickPortfolio/tree/4c12b4499d4f1ed92970097427a6ca43a0e35241/DataVizPortfolio)
 
   - ##### Power BI
 
@@ -20,14 +20,14 @@ Además, en mi [perfíl](https://github.com/RoderickGamer) encontrarás una list
     - [Website Convertión Rate - Looker Studio](https://github.com/RoderickGamer/RoderickPortfolio/blob/9edb22428bc169081c90cf0e15ec90a2528fdbb3/DataVizPortfolio/Looker%20Studio/Convertion%20Rate%20Looker%20Studio.md)
     - [Youtube Channel Report - Looker Studio](https://github.com/RoderickGamer/RoderickPortfolio/blob/9edb22428bc169081c90cf0e15ec90a2528fdbb3/DataVizPortfolio/Looker%20Studio/YouTube%20Channel%20Report.md)
 
-- ### Python
+- ### Python ➝ [🔗](https://github.com/RoderickGamer/RoderickPortfolio/tree/4c12b4499d4f1ed92970097427a6ca43a0e35241/PythonPortfolio)
 
   1. [Guess the number](https://github.com/RoderickGamer/RoderickPortfolio/tree/d0cebe28f30918c08f224e205a15013c4df065b1/PythonPortfolio/2_Hangman)
   2. [Hangman](https://github.com/RoderickGamer/RoderickPortfolio/tree/d0cebe28f30918c08f224e205a15013c4df065b1/PythonPortfolio/3_Recipe-Book)
   3. [Recipe book](https://github.com/RoderickGamer/RoderickPortfolio/tree/d0cebe28f30918c08f224e205a15013c4df065b1/PythonPortfolio/4_Bank-account)
   4. [Bank account](https://github.com/RoderickGamer/RoderickPortfolio/tree/c56486def8289dcda2aa6a11cf54a9c6a3955379/PythonPortfolio/4_Bank-account)
 
-- ### SQL
+- ### SQL ➝ [🔗](https://github.com/RoderickGamer/RoderickPortfolio/tree/4c12b4499d4f1ed92970097427a6ca43a0e35241/SQLPortfolio)
 
   - [Manga Storage Data Base](https://github.com/RoderickGamer/RoderickPortfolio/tree/dd6f0eaf4453ba4f183a12c9cf1839f9d08e4e2d/SQLPortfolio/Manga_Storage)
 
