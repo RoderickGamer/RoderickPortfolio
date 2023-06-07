@@ -1,4 +1,4 @@
-## Vista de informe
+## Vista de informe 
 
 ![image](https://github.com/RoderickGamer/DataVizPortfolio/assets/126647917/debc6a3e-7b9c-4a9e-970d-3fb08e831460)
 
