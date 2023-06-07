@@ -1,4 +1,4 @@
-# Moralidad infantil y esperanza de vida
+# Mortalidad infantil y esperanza de vida
 
 ###### Power BI
 
