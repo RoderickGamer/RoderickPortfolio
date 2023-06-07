@@ -8,7 +8,7 @@ Además, en mi [perfíl](https://github.com/RoderickGamer) encontrarás una list
 
 ## Portafolios
 
-- ### Data Visualization ➝ [🔗](https://github.com/RoderickGamer/RoderickPortfolio/tree/4c12b4499d4f1ed92970097427a6ca43a0e35241/DataVizPortfolio)
+- ### Data Visualization ➝ [🔗](DataVizPortfolio)
 
   - ##### Power BI
 
