@@ -9,7 +9,7 @@ Encontraras un README con la descripcion de la visualizacion en cada carpeta. Ad
 ## Proyectos
 
 - Videogames Sales Report 1980-2017
-- [Mortalidad infantil y esperanza de vida](DataVizPortfolio/Power BI/Mortalidad infantil y esperanza de vida)
+- [Mortalidad infantil y esperanza de vida](DataVizPortfolio/PowerBI/Mortalidadinfantilyesperanzadevida)
 - Población por continente y país
 
 
