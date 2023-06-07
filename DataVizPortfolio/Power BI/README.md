@@ -8,10 +8,9 @@ Encontraras un README con la descripcion de la visualizacion en cada carpeta. Ad
   
 ## Proyectos
 
-- [Reporte de Ventas de Videojuegos 1980-2017](https://github.com/RoderickGamer/RoderickPortfolio/tree/main/DataVizPortfolio/Power%20BI/Reporte%20de%20Ventas%20de%20Videojuegos%201980-2017)
 - [Mortalidad infantil y esperanza de vida](https://github.com/RoderickGamer/RoderickPortfolio/tree/main/DataVizPortfolio/Power%20BI/Mortalidad%20infantil%20y%20esperanza%20de%20vida)
 - [Población por continente y país](https://github.com/RoderickGamer/RoderickPortfolio/tree/main/DataVizPortfolio/Power%20BI/Población%20por%20continente%20y%20país)
-
+- [Reporte de Ventas de Videojuegos 1980-2017](https://github.com/RoderickGamer/RoderickPortfolio/tree/main/DataVizPortfolio/Power%20BI/Reporte%20de%20Ventas%20de%20Videojuegos%201980-2017)
 
 Si tienes alguna duda o comentario, en mi [perfíl](https://github.com/RoderickGamer) encontrarás las redes para contactarme.
 
