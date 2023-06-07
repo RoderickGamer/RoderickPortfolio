@@ -1,6 +1,6 @@
 # Ventas de Videojuegos, periodo 1980 - 2017
 
-###### Power BI
+###### Power BI 
 
 ##### Reporte realizado con un set de datos (adjunto en esta carpeta) proporcionado por el profesor del curso [Power BI](https://github.com/RoderickGamer/RoderickGamer/blob/6ec82ba9d8edd813a08e6b09c888952a0fc21d2b/Formaci%C3%B3n%2C%20cursos%20y%20certificaciones.md) en Udemy.
 
