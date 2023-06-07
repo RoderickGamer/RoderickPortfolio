@@ -8,10 +8,8 @@ Encontraras un README con la descripcion de la visualizacion en cada carpeta. Ad
   
 ## Proyectos
 
-- [Videogames Sales Report 1980-2017](DataVizPortfolio/Power BI/Reporte de Ventas de Videojuegos 1990-2017)
-- 
-- [Mortalidad infantil y esperanza de vida](DataVizPortfolio/Power BI/Mortalidad infantil y esperanza de vida)
-- 
+- [Videogames Sales Report 1980-2017]()
+- [Mortalidad infantil y esperanza de vida]()
 - [Población por continente y país](DataVizPortfolio/Power BI/Población por continente y país)
 
 
